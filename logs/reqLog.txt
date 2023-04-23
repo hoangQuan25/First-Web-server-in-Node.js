@@ -1,0 +1,16 @@
+April 23 2023, 10:09:11 AM	/new.html GET
+April 23 2023, 10:09:11 AM	/style/new.css GET
+April 23 2023, 10:09:11 AM	/image/redirected.jpg GET
+April 23 2023, 10:09:11 AM	/new.html GET
+April 23 2023, 10:09:11 AM	/style/new.css GET
+April 23 2023, 10:09:11 AM	/image/redirected.jpg GET
+April 23 2023, 10:09:29 AM	/new.html GET
+April 23 2023, 10:09:29 AM	/style/new.css GET
+April 23 2023, 10:09:29 AM	/image/redirected.jpg GET
+April 23 2023, 10:09:56 AM	/ GET
+April 23 2023, 10:09:56 AM	/style/index.css GET
+April 23 2023, 10:09:56 AM	/image/greetings.jpg GET
+April 23 2023, 10:12:02 AM	/ GET
+April 23 2023, 10:12:24 AM	/ GET
+April 23 2023, 10:12:24 AM	/style/index.css GET
+April 23 2023, 10:12:24 AM	/image/greetings.jpg GET
