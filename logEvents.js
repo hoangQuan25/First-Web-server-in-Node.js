@@ -3,7 +3,7 @@ const fsPromises = require('fs').promises;
 const path = require('path');
 
 const logEvents = async (msg, fileName) => {
-    const date = `${fns.format(new Date(), 'MMMM dd yyyy, HH:mm:ss a')}`;
+    const date = `${fns.format(new Date(), 'MM/dd/yyyy, HH:mm:ss a')}`;
     const logItem = `${date}\t${msg}\n`;
     console.log(logItem);
     try {
